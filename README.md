@@ -1,0 +1,2 @@
+# firefox_AddMoreTextToClipboard
+Development of AddMoreTextToClipboard for firefox
